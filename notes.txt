@@ -1,0 +1,22 @@
+FLOW
+1. Buisness will register a domain name.
+2. They install wp platform and plugin
+3. What this domain website is about (paragraph)?
+4. System plucks out and suggests google
+5. User selects and varifies correct keywords.
+6. We provide suggestions to categories according to keywords selected.
+7. They will accept a category 
+8. They will provide topics to a category. With recommendations.
+9. Write (pre-post) to topic with an aid.  (rate bar system as they write)
+10. Identify target audience (who is this for)?
+11. How would your audience value this post (long)?
+12. Audience and value is static
+13. How is this a solution to the audience need?
+14. Writer mode, will make a full post.
+15. Open a communication channel between writer and expert, if needed.
+16. Finish post.
+
+BD
+Write a summary about [topic].  He want's to create sub-topics.  
+Example: category = retail managers.  topic = retail managers salary.
+
