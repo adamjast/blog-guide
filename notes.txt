@@ -2,6 +2,7 @@ FLOW
 1. Buisness will register a domain name.
 2. They install wp platform and plugin
 3. What this domain website is about (paragraph)?
+3. What is the main topic of your website?
 4. System plucks out and suggests google
 5. User selects and varifies correct keywords.
 6. We provide suggestions to categories according to keywords selected.
@@ -12,6 +13,7 @@ FLOW
 11. How would your audience value this post (long)?
 12. Audience and value is static
 13. How is this a solution to the audience need?
+13. Summarize the pre-post to user.
 14. Writer mode, will make a full post.
 15. Open a communication channel between writer and expert, if needed.
 16. Finish post.
